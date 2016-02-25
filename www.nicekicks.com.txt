@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec"  prefix="og: http://ogp.me/ns#" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec"  prefix="og: http://ogp.me/ns#" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec"  prefix="og: http://ogp.me/ns#" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec"  prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]-->
+
+	<head>
+	
+		<meta charset="utf-8">
+		<!-- Google Chrome Frame for IE -->
+		<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+		<!-- mobile meta -->
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        
+        			<link rel="shortcut icon" href="http://nk_wp_media.s3.amazonaws.com/files/2015/05/favicon.png">
+		
+		<link rel="pingback" href="http://www.nicekicks.com/xmlrpc.php">
+
+		
+		<!-- head extras -->
+		<title>Jordan Release Dates for 2016 | Nice Kicks</title>
+	
+<script type="text/javascript">
+	var WVNconfig = WVNconfig || {};
+	WVNconfig.Site = {"name":"NiceKicks","domain":"nicekicks.com"};
+	WVNconfig.PageData = {"id":"","type":"ros","format":"digest","url":"http:\/\/www.nicekicks.com\/air-jordan-release-dates","editorial":false};
+</script>
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+	var gads = document.createElement('script');
+	gads.async = true;
+	gads.type = 'text/javascript';
+	var useSSL = 'https:' == document.location.protocol;
+	gads.src = (useSSL ? 'https:' : 'http:') + 
+		'//www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+	var width = window.innerWidth || document.documentElement.clientWidth;
+
+	googletag.pubads().collapseEmptyDivs();
+	// googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+});
+</script>
+
+		<script type="text/javascript">
+		var ajaxurl = 'http://www.nicekicks.com/wp-admin/admin-ajax.php';
+		</script>
+		
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Check the Jordan release dates at NiceKicks.com for the latest news about upcoming retro Air Jordans set to release. Release dates updated for 2016.."/>
+<link rel="canonical" href="http://www.nicekicks.com/air-jordan-release-dates/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Jordan Release Dates for 2016 | Nice Kicks" />
+<meta property="og:description" content="Check the Jordan release dates at NiceKicks.com for the latest news about upcoming retro Air Jordans set to release. Release dates updated for 2016.." />
+<meta property="og:url" content="http://www.nicekicks.com/air-jordan-release-dates/" />
+<meta property="og:site_name" content="Nice Kicks" />
+<meta property="article:publisher" content="http://www.facebook.com/NiceKicks" />
+<meta property="article:section" content="Uncategorized" />
+<meta property="og:image" content="http://nk_wp_media.s3.amazonaws.com/files/2007/07/jordan-release-dates.jpg" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="Check the Jordan release dates at NiceKicks.com for the latest news about upcoming retro Air Jordans set to release. Release dates updated for 2016.."/>
+<meta name="twitter:title" content="Jordan Release Dates for 2016 | Nice Kicks"/>
+<meta name="twitter:site" content="@nicekicks"/>
+<meta name="twitter:image" content="http://nk_wp_media.s3.amazonaws.com/files/2007/07/jordan-release-dates.jpg"/>
+<meta name="twitter:creator" content="@nicekicks"/>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Nice Kicks &raquo; Feed" href="http://www.nicekicks.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Nice Kicks &raquo; Comments Feed" href="http://www.nicekicks.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Nice Kicks &raquo; Air Jordan Release Dates Comments Feed" href="http://www.nicekicks.com/air-jordan-release-dates/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.nicekicks.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='socialfans-widget-style-css'  href='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-content/plugins/socialfans-counter/assets/css/socialfans-style.css?ver=3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-postratings-css'  href='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-content/plugins/wp-postratings/postratings-css.css?ver=1.83' type='text/css' media='all' />
+<link rel='stylesheet' id='woven-dfp-css-css'  href='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-content/themes/15zine/woven_lib/css/style.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='addthis_all_pages-css'  href='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-content/plugins/addthis-all/frontend/build/addthis_wordpress_public.min.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cb-main-stylesheet-css'  href='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-content/themes/15zine/library/css/style.css?ver=2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cb-font-stylesheet-css'  href='//fonts.googleapis.com/css?family=Montserrat%3A400%2C700%7COpen+Sans%3A400%2C700%2C400italic&#038;ver=2.2' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='cb-ie-only-css'  href='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-content/themes/15zine/library/css/ie.css?ver=2.2' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='fontawesome-css'  href='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-content/themes/15zine/library/css/font-awesome-4.4.0/css/font-awesome.min.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SfcounterObject = {"ajaxurl":"http:\/\/www.nicekicks.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-content/plugins/socialfans-counter/assets/js/socialfans-script.js?ver=3.3'></script>
+<script type='text/javascript' src='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-content/themes/15zine/library/js/modernizr.custom.min.js?ver=2.6.2'></script>
+<link rel='https://api.w.org/' href='http://www.nicekicks.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.nicekicks.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.nicekicks.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='http://www.nicekicks.com/?p=1440' />
+<link rel="alternate" type="application/json+oembed" href="http://www.nicekicks.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.nicekicks.com%2Fair-jordan-release-dates%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.nicekicks.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.nicekicks.com%2Fair-jordan-release-dates%2F&#038;format=xml" />
+<link rel='https://github.com/WP-API/WP-API' href='http://www.nicekicks.com/wp-json' />
+<style type='text/css'>img#wpstats{display:none}</style>
+<style type="text/css">
+	.cb-stuck #cb-nav-bar .cb-nav-bar-wrap { z-index: 99999; }
+	#woven-hero { background: #fff; padding: 5px 0; width: 1200px; margin: 0 auto; text-align: center; }
+	#wvn_skin { width: 0; height: 0; }
+	.adslot.cb-grid-feature { background: #fff !important; text-align: right !important; }
+	#woven-leaderboard { text-align: right; float: right; }
+	#woven-600 { text-align: center; margin: 0 auto 10px; }
+	@media (max-width: 1200px) {
+		#woven-hero, #wvn_atf_728, #wvn_btf_728, #wvn_600, #wvn_970, #wvn_skin { display: none; }
+	}
+	.cb-logo-center #logo, .cb-logo-center #mob-logo { display: table-cell; width: auto; text-align: left; }
+</style><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=647380488616108";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<script src="//load.sumome.com/" data-sumo-site-id="f61b8adc05ab53d6a2a762607c8b1def1202e0d9de8c7280fad4c9514218dccc" async="async"></script>
+
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "WebSite",
+  "name" : "Nice Kicks",
+  "alternateName" : "NiceKicks.com",
+  "url" : "http://www.nicekicks.com"
+}
+</script>
+<style type="text/css">body {
+  font-size: 16px;
+  line-height: 1.8;
+  -webkit-font-smoothing: antialiased;
+  color: #484848;
+}
+
+.cb-category-top {
+    text-align:left;
+}
+
+.cb-module-header p {
+  color: #828282;
+  margin: 5px 0 0;
+  font-size: 16px;
+  text-transform: none;
+  letter-spacing: 0px;
+}
+
+.tribe-events-schedule h1 {
+    margin-bottom: 100px;
+}
+
+.tribe-events-content {
+    background: #FFFFFF;
+    width: 1190px;
+}
+
+.tribe-events-pg-template {
+    background: #FFFFFF;
+    width: 1190px;
+}
+
+.tribe-events-event-image img {
+    max-width: 100%;
+    height: auto
+}
+
+#cb-logo-box {
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+
+#fb-page {
+  width: 500px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
+#tribe-events-content {
+    background: #FFFFFF;
+}
+
+#g-ytsubscribe {
+  width: 180px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
+.videoWrapper {
+	position: relative;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+#cb-nav-bar {
+    font-size: 14px;
+}
+
+#cb-top-menu .cb-left-side {
+    text-align: left;
+    width: 85%;
+}
+
+#cb-top-menu .cb-right-side {
+  width: 15%;
+  text-align: right;
+  float: right;
+}
+
+.at4-jumboshare a .at-label {
+    color: #FFFFFF !important;
+}
+
+.ratings {
+    font-size: 12px;
+    color: #484848;
+} .cb-stuck #cb-nav-bar .cb-main-nav #cb-nav-logo, #cb-nav-bar .cb-main-nav #cb-nav-logo img { width: 110px; }#cb-nav-bar .cb-mega-menu-columns .cb-sub-menu > li > a { color: #f2c231; } .cb-entry-content a {color:#e51b24; } .cb-entry-content a:hover {color:#939393; }.cb-meta-style-1 .cb-article-meta { background: rgba(0, 0, 0, 0.25); }@media only screen and (min-width: 768px) { 
+                .cb-module-block .cb-meta-style-1:hover .cb-article-meta { background: rgba(0, 0, 0, 0.75); } 
+                .cb-module-block .cb-meta-style-2:hover img, .cb-module-block .cb-meta-style-4:hover img, .cb-grid-x .cb-grid-feature:hover img, .cb-slider li:hover img { opacity: 0.25; } 
+            }</style><!-- end custom css --><style type="text/css">body, #respond, .cb-font-body { font-family: 'Open Sans', sans-serif; } h1, h2, h3, h4, h5, h6, .cb-font-header, #bbp-user-navigation, .cb-byline{ font-family:'Montserrat', sans-serif; }</style><!-- Body BG --><style>@media only screen and (min-width: 1200px) { body { background-color: #e0e0e0;} }</style><style>.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-470945:hover, .cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-470945:focus { background:# !important ; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-470945 .cb-big-menu { border-top-color: #; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-470947:hover, .cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-470947:focus { background:# !important ; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-470947 .cb-big-menu { border-top-color: #; }</style><link rel="icon" href="http://nk_wp_media.s3.amazonaws.com/files/2015/05/23013925/cropped-nice-kicks-logo-512-512-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://nk_wp_media.s3.amazonaws.com/files/2015/05/23013925/cropped-nice-kicks-logo-512-512-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://nk_wp_media.s3.amazonaws.com/files/2015/05/23013925/cropped-nice-kicks-logo-512-512-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://nk_wp_media.s3.amazonaws.com/files/2015/05/23013925/cropped-nice-kicks-logo-512-512-1-270x270.jpg" />
+		<!-- end head extras -->
+
+	</head>
+
+	<body class="page page-id-1440 page-parent page-template-default  cb-sidebar-right cb-sticky-mm cb-nav-logo-on cb-logo-nav-sticky cb-sticky-sb-on cb-tm-dark cb-body-light cb-menu-light cb-mm-dark cb-footer-dark cb-m-sticky cb-sw-tm-box cb-sw-header-box cb-sw-menu-box cb-sw-footer-fw cb-menu-al-center cb-fis-b-standard cb-h-logo-off">
+	
+		
+		<div id="cb-outer-container">
+
+			
+				<div id="cb-top-menu" class="clearfix cb-font-header  wrap">
+					<div class="wrap clearfix cb-site-padding cb-top-menu-wrap">
+						
+													<div class="cb-left-side cb-mob">
+								
+								<a href="#" id="cb-mob-open" class="cb-link"><i class="fa fa-bars"></i></a>
+								                <div id="mob-logo" class="cb-top-logo">
+                    <a href="http://www.nicekicks.com">
+                        <img src="http://nk_wp_media.s3.amazonaws.com/files/2015/05/06154212/nice-kicks-110-25-white.png" alt=" logo" data-at2x="http://nk_wp_media.s3.amazonaws.com/files/2015/05/06154212/nice-kicks-220-50-white.png">
+                    </a>
+                </div>
+            							</div>
+						                        <ul class="cb-top-nav cb-left-side"><li id="menu-item-470966" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children cb-has-children menu-item-470966"><a href="http://www.nicekicks.com/kicks-on-court/">Kicks On Court</a>
+<ul class="sub-menu">
+	<li id="menu-item-473251" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-473251"><a href="http://www.nicekicks.com/kicks-on-court/college-kicks-on-court-kicks-on-court/">College KOC</a></li>
+</ul>
+</li>
+<li id="menu-item-470967" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-470967"><a href="http://www.nicekicks.com/celebrity-sneaker-stalker/">Celebrity Sneaker Stalker</a></li>
+<li id="menu-item-470968" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-470968"><a href="http://www.nicekicks.com/columns/sole-access/">Sole Access</a></li>
+<li id="menu-item-480644" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-480644"><a href="http://www.nicekicks.com/columns/on-foot-look/">On Foot Look</a></li>
+<li id="menu-item-470969" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children cb-has-children menu-item-470969"><a href="http://www.nicekicks.com/">Release Dates</a>
+<ul class="sub-menu">
+	<li id="menu-item-471197" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-471197"><a href="http://www.nicekicks.com/air-jordan-release-dates/">Upcoming Jordan release dates</a></li>
+</ul>
+</li>
+</ul>                        <ul class="cb-top-nav cb-right-side"><li class="cb-icon-search"><a href="#"  title="Search" id="cb-s-trigger"><i class="fa fa-search"></i> <span class="cb-search-title">Search</span></a></li></ul>					</div>
+				</div>
+				<div id="cb-mob-menu">
+					<a href="#" id="cb-mob-close" class="cb-link"><i class="fa cb-times"></i></a>
+					<div class="cb-mob-menu-wrap">
+						<ul class="cb-mobile-nav cb-top-nav"><li id="menu-item-447650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-447650"><a href="http://www.nicekicks.com">Home</a></li>
+<li id="menu-item-447646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-447646"><a href="http://www.nicekicks.com/about-us/">About Us</a></li>
+<li id="menu-item-447645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-447645"><a href="http://www.nicekicks.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-447648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-447648"><a href="http://www.nicekicks.com/sneaker-release-dates/">Sneaker release dates</a></li>
+<li id="menu-item-447647" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-447647"><a href="http://www.nicekicks.com/air-jordan-release-dates/">Jordan release dates</a></li>
+</ul>					</div>
+				</div>
+			
+			 
+			<div id="cb-container" class="clearfix" >				
+									<header id="cb-header" class="cb-header  wrap" role="banner">
+
+					    <div id="cb-logo-box" class="cb-logo-center wrap">
+	                    	                <div id="logo">
+                    <a href="http://www.nicekicks.com">
+                        <img src="http://nk_wp_media.s3.amazonaws.com/files/2015/05/nice-kicks-80.png" alt=" logo" data-at2x="http://nk_wp_media.s3.amazonaws.com/files/2015/05/nice-kicks-160.png">
+                    </a>
+                </div>
+            	                        
+							 <div class="adslot visible-desktop visible-tablet" id="woven-leaderboard" style="min-width: 728px; min-height: 90px;" data-zone="728x90_Top" data-cids="" data-size="[[728, 90], [728, 270]]"></div> 
+	                    </div>
+
+					</header>
+								
+				<div id="cb-menu-search" class="cb-s-modal cb-modal"><div class="cb-close-m cb-ta-right"><i class="fa cb-times"></i></div><div class="cb-s-modal-inner cb-pre-load cb-light-loader cb-modal-inner cb-font-header cb-mega-three cb-mega-posts clearfix"><form role="search" method="get" class="cb-search" action="http://www.nicekicks.com/">
+
+    <input type="text" class="cb-search-field cb-font-header" placeholder="Search.." value="" name="s" title="" autocomplete="off">
+    <button class="cb-search-submit" type="submit" value=""><i class="fa fa-search"></i></button>
+    
+</form><div id="cb-s-results"></div></div></div>
+									 <nav id="cb-nav-bar" class="clearfix  wrap" role="navigation">
+					 	<div class="cb-nav-bar-wrap cb-site-padding clearfix cb-font-header  wrap">
+		                    <ul class="cb-main-nav wrap clearfix"><li id="menu-item-470942" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-470942"><a href="http://www.nicekicks.com/adidas/">adidas</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-mega-three cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>adidas</h2><a href="http://www.nicekicks.com/adidas/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-485764 post type-post status-publish format-standard has-post-thumbnail hentry category-adidas tag-adidas tag-adidas-eqt-running-support-93 tag-adidas-eqt-running-support-93-tokyo"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/this-adidas-eqt-running-support-93-draws-inspiration-from-past-olympic-summer-games/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/25154939/adidas-EQT-Running-Support-93-Tokyo--360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="adidas EQT Running Support 93 Tokyo" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/this-adidas-eqt-running-support-93-draws-inspiration-from-past-olympic-summer-games/">This adidas EQT Running Support &#8217;93 Draws Inspiration from Past Olympic Games</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-25">Feb 25, 2016</time></span></div></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-485714 post type-post status-publish format-standard has-post-thumbnail hentry category-adidas tag-adidas tag-adidas-superstar tag-adidas-superstar-adicolor"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/adidas-superstar-adicolor-collection/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/25130912/adidas-Superstar-Adicolor-Collection--360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="adidas Superstar Adicolor Collection" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/adidas-superstar-adicolor-collection/">adidas Superstar &#8220;Adicolor&#8221; Collection</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-25">Feb 25, 2016</time></span></div></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-485615 post type-post status-publish format-standard has-post-thumbnail hentry category-adidas tag-adidas"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/adidas-earns-their-stripes-in-european-court/"><img width="360" height="203" src="http://nk_wp_media.s3.amazonaws.com/files/2015/01/EER-2.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="adidas-originals-superstar-east-river-rivalry-pack-2" srcset="http://nk_wp_media.s3.amazonaws.com/files/2015/01/EER-2-282x159.jpg 282w, http://nk_wp_media.s3.amazonaws.com/files/2015/01/EER-2-633x357.jpg 633w, http://nk_wp_media.s3.amazonaws.com/files/2015/01/EER-2-375x212.jpg 375w, http://nk_wp_media.s3.amazonaws.com/files/2015/01/EER-2.jpg 750w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/adidas-earns-their-stripes-in-european-court/">adidas Earns Their Stripes in European Court</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-24">Feb 24, 2016</time></span></div></div></li></ul></div></div></li>
+<li id="menu-item-470943" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-470943"><a href="http://www.nicekicks.com/asics/">ASICS</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-mega-three cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>ASICS</h2><a href="http://www.nicekicks.com/asics/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-485781 post type-post status-publish format-standard has-post-thumbnail hentry category-asics tag-asics tag-asics-gel-lyte-v-gore-tex tag-asics-gel-lyte-v"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/the-asics-gel-lyte-v-gore-tex-ice-drops-tonight/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/25164449/ASICS-Gel-Lyte-V-Gore-Tex-Ice--360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="ASICS Gel Lyte V Gore-Tex Ice" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/the-asics-gel-lyte-v-gore-tex-ice-drops-tonight/">The ASICS Gel Lyte V Gore-Tex &#8220;Ice&#8221; Drops Tomorrow</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-25">Feb 25, 2016</time></span></div></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-485632 post type-post status-publish format-standard has-post-thumbnail hentry category-asics tag-asics tag-asics-easter-collection tag-asics-gel-lyte-speed tag-asics-gel-saga"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/asics-easter-collection-available-now/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/25101516/Asics-Easter-Pack-Feature-Lv-1-360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Asics Easter Pack Feature Lv-1" srcset="http://nk_wp_media.s3.amazonaws.com/files/2016/02/25101516/Asics-Easter-Pack-Feature-Lv-1.jpg 750w, http://nk_wp_media.s3.amazonaws.com/files/2016/02/25101516/Asics-Easter-Pack-Feature-Lv-1-360x240.jpg 360w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/asics-easter-collection-available-now/">ASICS &#8220;Easter&#8221; Collection // Available Now</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-25">Feb 25, 2016</time></span></div></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-485380 post type-post status-publish format-standard has-post-thumbnail hentry category-asics tag-asics tag-asics-gel-lyte-iii"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/asics-gel-lyte-iii-no-seam-pack/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/23221119/ASICS-Gel-Lyte-III-No-Seam-Pack--360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="ASICS Gel Lyte III No Seam Pack" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/asics-gel-lyte-iii-no-seam-pack/">ASICS Gel Lyte III &#8220;No-Seam&#8221; Pack</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-23">Feb 23, 2016</time></span></div></div></li></ul></div></div></li>
+<li id="menu-item-470944" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-470944"><a href="http://www.nicekicks.com/converse/">Converse</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-mega-three cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>Converse</h2><a href="http://www.nicekicks.com/converse/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-482488 post type-post status-publish format-video has-post-thumbnail hentry category-converse tag-agenda tag-agenda-report tag-cons-skateboarding tag-converse tag-video post_format-post-format-video"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/agenda-report-kenny-anderson-previews-cons-skateboarding-spring-16-lineup/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/01144456/kenny-anderson-cons-skateboarding-360x240.png" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Kenny Anderson" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/agenda-report-kenny-anderson-previews-cons-skateboarding-spring-16-lineup/">Agenda Report // Kenny Anderson Previews CONS Skateboarding Spring &#8217;16 Lineup</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-01">Feb 1, 2016</time></span></div></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-481681 post type-post status-publish format-standard has-post-thumbnail hentry category-converse tag-cons-metric-cls tag-converse"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/converse-showcases-the-new-cons-metric-cls-skate-sneaker/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/01/26163534/Cons_Metric_CLS_-_Group_large-360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Cons_Metric_CLS_-_Group_large" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/converse-showcases-the-new-cons-metric-cls-skate-sneaker/">Converse Showcases The New Cons Metric CLS Skate Sneaker</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-01-26">Jan 26, 2016</time></span></div></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-473937 post type-post status-publish format-standard has-post-thumbnail hentry category-converse tag-converse tag-converse-1970-souvenir-jacket"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/converse-1970-souvenir-jacket-pack/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2015/11/29192956/converse-1970-souvenir-jacket-pack-1-360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="converse-1970-souvenir-jacket-pack-1" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/converse-1970-souvenir-jacket-pack/">Converse 1970 &#8220;Souvenir Jacket&#8221; Pack</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2015-11-29">Nov 29, 2015</time></span></div></div></li></ul></div></div></li>
+<li id="menu-item-470945" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-470945"><a href="http://www.nicekicks.com/jordan-brand/">Jordan</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-mega-three cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>Jordan</h2><a href="http://www.nicekicks.com/jordan-brand/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-485640 post type-post status-publish format-standard has-post-thumbnail hentry category-air-jordans category-featured category-jordan-brand tag-air-jordan-3 tag-air-jordan-3-true-blue tag-air-jordans tag-throwback-thursday"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/air-jordan-3-true-blue-throwback-thursday/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/25155725/8-Kobe-True-Blue-III-3-1-360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="8-Kobe-True-Blue-III-3-1" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/air-jordan-3-true-blue-throwback-thursday/">Throwback Thursday // Air Jordan 3 &#8220;True Blue&#8221;</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-25">Feb 25, 2016</time></span></div></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-485749 post type-post status-publish format-standard has-post-thumbnail hentry category-jordan-brand tag-jordan-brand tag-jordan-jumpman-team-2"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/jordan-jumpman-team-2-navy-available-now/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/25142443/Jordan-Team-Jumpman-2-Navy--360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Jordan Team Jumpman 2 Navy" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/jordan-jumpman-team-2-navy-available-now/">Jordan Jumpman Team 2 &#8220;Navy&#8221; // Available Now</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-25">Feb 25, 2016</time></span></div></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-485625 post type-post status-publish format-standard has-post-thumbnail hentry category-air-jordans category-custom-sneakers category-jordan-brand tag-air-jordans tag-custom-sneakers tag-jordan-brand"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/custom-sneaker-one-of-a-kind-air-jordan-1-by-shannon-favia/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/25094257/hannon-Favia-Air-Jordan-3-360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="hannon-Favia-Air-Jordan-3" srcset="http://nk_wp_media.s3.amazonaws.com/files/2016/02/25094257/hannon-Favia-Air-Jordan-3-360x240.jpg 360w, http://nk_wp_media.s3.amazonaws.com/files/2016/02/25094257/hannon-Favia-Air-Jordan-3-750x500.jpg 750w" sizes="(max-width: 360px) 100vw, 360px" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/custom-sneaker-one-of-a-kind-air-jordan-1-by-shannon-favia/">Custom Sneaker // &#8220;One Of A Kind&#8221; Air Jordan 1 by Shannon Favia</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-25">Feb 25, 2016</time></span></div></div></li></ul></div></div></li>
+<li id="menu-item-470946" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-470946"><a href="http://www.nicekicks.com/new-balance/">New Balance</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-mega-three cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>New Balance</h2><a href="http://www.nicekicks.com/new-balance/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-485725 post type-post status-publish format-standard has-post-thumbnail hentry category-new-balance tag-new-balance tag-new-balance-580 tag-new-balance-580-seaside-hideaway-pack"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/new-balance-580-seaside-hideaway-pack/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/25134105/New-Balance-580-Seaside-Hideaway-Pack--360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="New Balance 580 Seaside Hideaway Pack" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/new-balance-580-seaside-hideaway-pack/">New Balance 580 &#8220;Seaside Hideaway&#8221; Pack</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-25">Feb 25, 2016</time></span></div></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-485312 post type-post status-publish format-standard has-post-thumbnail hentry category-new-balance tag-new-balance tag-new-balance-577 tag-new-balance-577-made-in-england-aqua-suede"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/new-balance-577-aqua-suede/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/23123829/New-Balance-577-Aqua-Suede--360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="New Balance 577 Aqua Suede" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/new-balance-577-aqua-suede/">New Balance 577 Made in England &#8220;Aqua Suede&#8221;</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-23">Feb 23, 2016</time></span></div></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-483432 post type-post status-publish format-standard has-post-thumbnail hentry category-new-balance tag-new-balance tag-new-balance-trail-buster-re"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/new-balance-trail-buster-re/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/08210646/new-balance-trailbuster-re-lead-360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="new-balance-trailbuster-re-lead" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/new-balance-trail-buster-re/">New Balance Trail Buster RE Marks Intersect Between 90&#8217;s Runners and Modern Technology</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-08">Feb 8, 2016</time></span></div></div></li></ul></div></div></li>
+<li id="menu-item-470947" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-470947"><a href="http://www.nicekicks.com/nike-shoes/">Nike</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-mega-three cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>Nike</h2><a href="http://www.nicekicks.com/nike-shoes/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-485775 post type-post status-publish format-standard has-post-thumbnail hentry category-nike-shoes tag-nike-shoes tag-nike-air-max-cb-34 tag-nike-air-max-cb-34-wolf-grey"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/nike-air-max-cb34-wolf-grey-available-now/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/25161458/Nike-Air-Max-CB34-Wolf-Grey--360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Nike Air Max CB34 Wolf Grey" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/nike-air-max-cb34-wolf-grey-available-now/">Nike Air Max CB34 &#8220;Wolf Grey&#8221; // Available Now</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-25">Feb 25, 2016</time></span></div></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-485736 post type-post status-publish format-standard has-post-thumbnail hentry category-nike-shoes tag-nike-shoes tag-nike-sock-dart tag-nikelab-tech-fleece-sock-dart"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/nikelab-tech-fleece-sock-dart-coming-soon/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/25135953/NikeLab-Tech-Fleece-Sock-Dart--360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="NikeLab Tech Fleece Sock Dart" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/nikelab-tech-fleece-sock-dart-coming-soon/">NikeLab Tech Fleece Sock Dart // Coming Soon</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-25">Feb 25, 2016</time></span></div></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-485720 post type-post status-publish format-standard has-post-thumbnail hentry category-nike-shoes tag-nike-shoes tag-nike-air-force-1-low-ultra-flyknit"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/nike-air-force-1-low-flyknit-ultra-university-red/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/25132655/Nike-Air-Force-1-Low-Ultra-Flyknit-University-Red--360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Nike Air Force 1 Low Ultra Flyknit University Red" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/nike-air-force-1-low-flyknit-ultra-university-red/">Nike Air Force 1 Low Ultra Flyknit &#8220;University Red&#8221; Drops Next Month</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-25">Feb 25, 2016</time></span></div></div></li></ul></div></div></li>
+<li id="menu-item-470950" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-470950"><a href="http://www.nicekicks.com/puma/">Puma</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-mega-three cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>Puma</h2><a href="http://www.nicekicks.com/puma/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-485476 post type-post status-publish format-standard has-post-thumbnail hentry category-collaboration category-puma tag-puma tag-rihanna tag-rihanna-x-puma-fenty-trainer"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/rihanna-x-puma-fenty-trainer-another-look/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/24124402/Rihanna-x-PUMA-Fenty-Trainer-1-360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Rihanna x PUMA Fenty Trainer" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/rihanna-x-puma-fenty-trainer-another-look/">Rihanna x PUMA Fenty Trainer // Another Look</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-24">Feb 24, 2016</time></span></div></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-485128 post type-post status-publish format-standard has-post-thumbnail hentry category-puma tag-puma tag-puma-disc-blaze"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/puma-disc-blaze-leather-japan-limited/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/22133947/PUMA-Disc-Blaze-Japan-Limited--360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="PUMA Disc Blaze Japan Limited" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/puma-disc-blaze-leather-japan-limited/">PUMA Disc Blaze Leather &#8220;Japan Limited&#8221; Pack</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-22">Feb 22, 2016</time></span></div></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-484331 post type-post status-publish format-standard has-post-thumbnail hentry category-featured category-features category-puma tag-agenda tag-agenda-report tag-kylie-jenner tag-puma"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/agenda-report-puma-confirms-kylie-jenner-deal/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/15151752/kylie-jenner-puma-deal-360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Kylie Jenner PUMA Deal is Confirmed" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/agenda-report-puma-confirms-kylie-jenner-deal/">Agenda Report // PUMA Confirms Kylie Jenner Deal</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-20">Feb 20, 2016</time></span></div></div></li></ul></div></div></li>
+<li id="menu-item-470951" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-470951"><a href="http://www.nicekicks.com/under-armour/">Under Armour</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-mega-three cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>Under Armour</h2><a href="http://www.nicekicks.com/under-armour/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-484601 post type-post status-publish format-standard has-post-thumbnail hentry category-under-armour tag-under-armour tag-under-armour-curry-two-birthday"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/under-armour-celebrates-stephs-birthday-with-curry-two-confetti/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/17142205/Under-Armour-Curry-Two-Birthday--360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Under Armour Curry Two Birthday" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/under-armour-celebrates-stephs-birthday-with-curry-two-confetti/">Under Armour Celebrates Steph&#8217;s Birthday with Upcoming Curry Two</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-17">Feb 17, 2016</time></span></div></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-483315 post type-post status-publish format-standard has-post-thumbnail hentry category-under-armour tag-under-armour tag-under-armour-curry-two tag-under-armour-curry-two-all-star"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/release-date-under-armour-curry-two-all-star/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/06145608/Under-Armour-Curry-Two-All-Star-360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Under Armour Curry Two All Star" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/release-date-under-armour-curry-two-all-star/">Release Date // Under Armour Curry Two &#8220;All-Star&#8221;</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-06">Feb 6, 2016</time></span></div></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-482675 post type-post status-publish format-standard has-post-thumbnail hentry category-under-armour tag-under-armour tag-under-armour-curry-two"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/a-set-of-under-armour-curry-two-colorways-drop-this-weekend/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/02132512/Under-Armour-Curry-Two-Elite--360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Under Armour Curry Two Elite" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/a-set-of-under-armour-curry-two-colorways-drop-this-weekend/">A Set of Under Armour Curry Two Colorways Drop This Weekend</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-02">Feb 2, 2016</time></span></div></div></li></ul></div></div></li>
+<li id="menu-item-471128" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-471128"><a href="http://www.nicekicks.com/vans/">Vans</a><div class="cb-menu-drop cb-bg cb-mega-menu cb-big-menu clearfix"><div class="cb-mega-three cb-mega-posts  clearfix"><div class="cb-upper-title"><h2>Vans</h2><a href="http://www.nicekicks.com/vans/" class="cb-see-all">See all</a></div><ul class="cb-sub-posts"> <li class="cb-looper cb-article-1 cb-mm-posts-count-3 cb-style-1 clearfix post-485530 post type-post status-publish format-standard has-post-thumbnail hentry category-vans tag-vans tag-vault-by-vans tag-vault-by-vans-checkered-past-collection"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/vault-by-vans-reinterprets-timeless-checkerboard-pattern-with-horween-leather/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/24153017/Vault-by-Vans-Checkered-Past-Collection--360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Vault by Vans Checkered Past Collection" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/vault-by-vans-reinterprets-timeless-checkerboard-pattern-with-horween-leather/">Vault by Vans &#8220;Checkered Past&#8221; Collection Explores Timeless Motif with Premium Leather</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-24">Feb 24, 2016</time></span></div></div></li> <li class="cb-looper cb-article-2 cb-mm-posts-count-3 cb-style-1 clearfix post-485500 post type-post status-publish format-standard has-post-thumbnail hentry category-collaboration category-vans tag-supreme tag-supreme-x-vans-era-spring-2016-collection tag-vans"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/supreme-x-vans-era-spring-2016-collection/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/24143943/Supreme-x-Vans-Era-Spring-2016-Collection--360x240.jpg" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="Supreme x Vans Era Spring 2016 Collection" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/supreme-x-vans-era-spring-2016-collection/">Supreme x Vans Era Spring 2016 Collection</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-24">Feb 24, 2016</time></span></div></div></li> <li class="cb-looper cb-article-3 cb-mm-posts-count-3 cb-style-1 clearfix post-485491 post type-post status-publish format-video has-post-thumbnail hentry category-vans tag-damn-daniel tag-vans post_format-post-format-video"><div class="cb-mask cb-img-fw" style="background-color: #222;"><a href="http://www.nicekicks.com/ellen-vans-give-damn-daniel-lifetime-supply-of-sneakers/"><img width="360" height="240" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/24133455/ellen-damn-daniel-360x240.png" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="ellen-damn-daniel" /></a></div><div class="cb-meta"><h2 class="cb-post-title"><a href="http://www.nicekicks.com/ellen-vans-give-damn-daniel-lifetime-supply-of-sneakers/">Ellen &#038; Vans Give &#8220;Damn Daniel&#8221; Lifetime Supply of Sneakers</a></h2><div class="cb-byline cb-byline-short cb-byline-date"><span class="cb-date"><time class="updated" datetime="2016-02-24">Feb 24, 2016</time></span></div></div></li></ul></div></div></li>
+<li id="cb-nav-logo" class="cb-logo-nav-sticky-type" style="padding-top: 10px"><a href="http://www.nicekicks.com"><img src="http://nk_wp_media.s3.amazonaws.com/files/2015/05/nice-kicks-110-25.png" alt="site logo" data-at2x="http://nk_wp_media.s3.amazonaws.com/files/2015/05/nice-kicks-220-50.png" ></a></li></ul>		                </div>
+	 				</nav>
+ 				
+<div class="adslot visible-mobile hidden-desktop hidden-tablet" id="woven-320" style="min-width: 320px;" data-zone="320x50" data-cids="" data-size="[[320, 50]]"></div> 
+
+<div class="adslot visible-desktop" id="woven-hero" style="min-width: 970px;" data-zone="Pushdown" data-cids="" data-size="[[970, 1], [970, 66], [970, 250]]"></div>
+
+        <div id="cb-content" class="wrap clearfix">
+			
+	        
+	        
+			<div id="main" class="cb-main" role="main">
+				
+				                        <div id="post-ratings-1440" class="post-ratings" itemscope itemtype="http://schema.org/Article" data-nonce="9be2b94a60"><div class="ratings" align="right">(<strong>3.46</strong>/<strong>5</strong>, <strong>242</strong> VOTES)<img id="rating_1440_1" src="http://www.nicekicks.com/wp-content/plugins/wp-postratings/images/stars(png)/rating_on.png" alt="" title="" onmouseover="current_rating(1440, 1, '');" onmouseout="ratings_off(3.5, 4, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_1440_2" src="http://www.nicekicks.com/wp-content/plugins/wp-postratings/images/stars(png)/rating_on.png" alt="" title="" onmouseover="current_rating(1440, 2, '');" onmouseout="ratings_off(3.5, 4, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_1440_3" src="http://www.nicekicks.com/wp-content/plugins/wp-postratings/images/stars(png)/rating_on.png" alt="" title="" onmouseover="current_rating(1440, 3, '');" onmouseout="ratings_off(3.5, 4, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_1440_4" src="http://www.nicekicks.com/wp-content/plugins/wp-postratings/images/stars(png)/rating_half.png" alt="" title="" onmouseover="current_rating(1440, 4, '');" onmouseout="ratings_off(3.5, 4, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_1440_5" src="http://www.nicekicks.com/wp-content/plugins/wp-postratings/images/stars(png)/rating_off.png" alt="" title="" onmouseover="current_rating(1440, 5, '');" onmouseout="ratings_off(3.5, 4, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /></div><meta itemprop="headline" content="Air Jordan Release Dates" /><meta itemprop="description" content="Stay with NiceKicks.com for the latest and most accurate information for Jordan release dates. For more information about the most popular signature sneakers of all-time, check out our Air Jordans pag..." /><meta itemprop="datePublished" content="2007-07-03T12:40:24+00:00" /><meta itemprop="url" content="http://www.nicekicks.com/air-jordan-release-dates/" /><meta itemprop="image" content="http://nk_wp_media.s3.amazonaws.com/files/2007/07/jordan-release-dates-100x65.jpg" /><div style="display: none;" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"><meta itemprop="bestRating" content="5" /><meta itemprop="worstRating" content="1" /><meta itemprop="ratingValue" content="3.46" /><meta itemprop="ratingCount" content="242" /></div></div><div id="post-ratings-1440-loading" class="post-ratings-loading">
+			<img src="http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-content/plugins/wp-postratings/images/loading.gif" width="16" height="16" class="post-ratings-image" />Loading...</div>							        <div class="cb-module-header cb-category-header">
+			           <h1 class="cb-module-title">Air Jordan Release Dates</h1>
+				    </div>
+			    
+				<article id="post-1440" class="clearfix post-1440 page type-page status-publish has-post-thumbnail hentry" role="article">
+
+					<div id="cb-featured-image" class="cb-fis cb-fis-block-standard"><div class="cb-mask"><img width="750" height="400" src="http://nk_wp_media.s3.amazonaws.com/files/2007/07/jordan-release-dates.jpg" class="attachment-cb-759-500 size-cb-759-500 wp-post-image" alt="Jordan Release Dates for 2015" srcset="http://nk_wp_media.s3.amazonaws.com/files/2007/07/jordan-release-dates-298x159.jpg 298w, http://nk_wp_media.s3.amazonaws.com/files/2007/07/jordan-release-dates-669x357.jpg 669w, http://nk_wp_media.s3.amazonaws.com/files/2007/07/jordan-release-dates.jpg 750w, http://nk_wp_media.s3.amazonaws.com/files/2007/07/jordan-release-dates-375x200.jpg 375w" sizes="(max-width: 750px) 100vw, 750px" /></div></div>
+					<section class="cb-entry-content clearfix" itemprop="articleBody">
+						<!-- AddThis Sharing Buttons above via filter on the_content -->
+<div class="at-above-post-page" data-url="http://www.nicekicks.com/air-jordan-release-dates/" data-title="Air Jordan Release Dates"></div><p>Stay with NiceKicks.com for the latest and most accurate information for <strong>Jordan release dates</strong>. For more information about the most popular signature sneakers of all-time, check out our <a href="http://nicekicks.com/tag/air-jordans/" target="_blank">Air Jordans</a> page for the full history of Michael Jordan&#8217;s line.</p>
+<p>Get notified when new Jordans release as well as restocks. &nbsp;Follow <a href="http://www.twitter.com/nicekicks/" target="_blank">@nicekicks</a> and <a href="http://www.twitter.com/nicekicksnotify/" target="_blank">@nicekicksnotify</a> to get the latest breaking news of Jordan releases.</p>
+<p style="text-align: center;"><strong><a href="http://www.nicekicks.com/where-you-can-buy-the-air-jordan-4-white-cement-online/">For Sale // Where you can buy the Air Jordan 4 White/Cement &#8217;89 OG Online</a></strong><a href="http://www.nicekicks.com/where-you-can-buy-the-air-jordan-4-white-cement-online/"><img class="aligncenter wp-image-483476 size-medium" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/08173319/white-cement-air-jordan-4-og-nike-air-750x443.png" alt="Air Jordan 4 White/Cement 2016 retro" width="750" height="443" srcset="http://nk_wp_media.s3.amazonaws.com/files/2016/02/08173319/white-cement-air-jordan-4-og-nike-air-750x443.png 750w, http://nk_wp_media.s3.amazonaws.com/files/2016/02/08173319/white-cement-air-jordan-4-og-nike-air-768x454.png 768w, http://nk_wp_media.s3.amazonaws.com/files/2016/02/08173319/white-cement-air-jordan-4-og-nike-air-950x561.png 950w, http://nk_wp_media.s3.amazonaws.com/files/2016/02/08173319/white-cement-air-jordan-4-og-nike-air-500x295.png 500w, http://nk_wp_media.s3.amazonaws.com/files/2016/02/08173319/white-cement-air-jordan-4-og-nike-air-736x435.png 736w, http://nk_wp_media.s3.amazonaws.com/files/2016/02/08173319/white-cement-air-jordan-4-og-nike-air.png 1183w" sizes="(max-width: 750px) 100vw, 750px" /></a><strong><a href="http://www.nicekicks.com/where-you-can-buy-the-air-jordan-4-white-cement-online/">For Sale // Where you can buy the Air Jordan 4 White/Cement &#8217;89 OG Online</a></strong></p>
+<p style="text-align: center;">RELATED: <strong><a title="Rarest Air Jordan Releases" href="http://www.nicekicks.com/2013/02/17/playing-hard-23-rarest-air-jordan-releases/">23 Rarest Air Jordan Releases of all time</a></strong></p>
+<div id="attachment_478582" style="width: 760px" class="wp-caption aligncenter"><img class="size-full wp-image-478582" src="http://nk_wp_media.s3.amazonaws.com/files/2016/01/04115408/air-jordan-2-radio-raheem-1.jpg" alt="Air Jordan 2 &quot;Radio Raheem&quot; - Release Date: January 9, 2016 - $170" width="750" height="400" /><p class="wp-caption-text">Air Jordan 2 &#8220;Radio Raheem&#8221; &#8211; Release Date: January 9, 2016 &#8211; $170</p></div>
+<h2><a href="http://www.nicekicks.com/2016/01/04/the-air-jordan-2-radio-raheem-drops-later-this-week/" target="_blank">Air Jordan 2 “Radio Raheem”</a></h2>
+<p>Colorway: Black/Fire Pink-Photo Blue-Atomic Orange<br />
+Style #: 834274-014<br />
+Release Date: January 9, 2016<br />
+Price: $170</p>
+<div id="attachment_479438" style="width: 760px" class="wp-caption aligncenter"><img class="size-full wp-image-479438" src="http://nk_wp_media.s3.amazonaws.com/files/2016/01/11095539/Air-Jordan-1-High-Nouveau-BHM1.jpg" alt="Air Jordan 1 High Nouveau BHM" width="750" height="400" /><p class="wp-caption-text">Air Jordan 1 High Nouveau &#8220;BHM&#8221; &#8211; Release Date: January 16, 2016 &#8211; $150</p></div>
+<h2><a href="http://www.nicekicks.com/another-look-at-the-air-jordan-1-high-nouveau-bhm/" target="_blank">Air Jordan 1 High Nouveau &#8220;BHM&#8221;</a></h2>
+<p>Colorway:Black/White-Black-Voltage Green<br />
+Release Date: January 16, 2016<br />
+Price: $150</p>
+<p><img class="aligncenter size-full wp-image-473192" src="http://nk_wp_media.s3.amazonaws.com/files/2015/11/20132935/air-jordan-5-low-china-03-620x620.jpg" alt="air-jordan-5-low-china-another-look-3" width="620" height="620" srcset="http://nk_wp_media.s3.amazonaws.com/files/2015/11/20132935/air-jordan-5-low-china-03-620x620-400x400.jpg 400w, http://nk_wp_media.s3.amazonaws.com/files/2015/11/20132935/air-jordan-5-low-china-03-620x620-125x125.jpg 125w, http://nk_wp_media.s3.amazonaws.com/files/2015/11/20132935/air-jordan-5-low-china-03-620x620.jpg 620w" sizes="(max-width: 620px) 100vw, 620px" /></p>
+<h2>Air Jordan 5 Low &#8220;Chinese New Year&#8221;</h2>
+<p>Colorway: Black/Black-Bright Crimson<br />
+Style #: 840475-060<br />
+Release Date: January 23, 2016</p>
+<div id="attachment_479563" style="width: 1210px" class="wp-caption aligncenter"><img class="size-full wp-image-479563" src="http://nk_wp_media.s3.amazonaws.com/files/2016/01/11132242/air-jordan-1-low-og-black-white-1.jpg" alt="Air Jordan 1 Low Cyber Monday" width="1200" height="800" srcset="http://nk_wp_media.s3.amazonaws.com/files/2016/01/11132242/air-jordan-1-low-og-black-white-1-750x500.jpg 750w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/11132242/air-jordan-1-low-og-black-white-1-768x512.jpg 768w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/11132242/air-jordan-1-low-og-black-white-1-950x633.jpg 950w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/11132242/air-jordan-1-low-og-black-white-1-360x240.jpg 360w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/11132242/air-jordan-1-low-og-black-white-1.jpg 1200w" sizes="(max-width: 1200px) 100vw, 1200px" /><p class="wp-caption-text">Air Jordan 1 Low &#8220;Cyber Monday&#8221; &#8211; Release Date: January 23, 2016 &#8211; $130</p></div>
+<h2><a href="http://www.nicekicks.com/release-date-air-jordan-1-low-cyber-monday/" target="_blank">Air Jordan 1 Low &#8220;Cyber Monday&#8221;</a></h2>
+<p>Colorway: Black/White<br />
+Style #: 705329-010<br />
+Release Date: January 23, 2016<br />
+Price: $130</p>
+<div id="attachment_481584" style="width: 950px" class="wp-caption aligncenter"><img class="size-full wp-image-481584" src="http://nk_wp_media.s3.amazonaws.com/files/2016/01/25172953/114.jpg" alt="Air Jordan 5 Low Alternate" width="940" height="615" srcset="http://nk_wp_media.s3.amazonaws.com/files/2016/01/25172953/114-750x491.jpg 750w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/25172953/114-768x502.jpg 768w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/25172953/114-500x327.jpg 500w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/25172953/114-665x435.jpg 665w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/25172953/114-260x170.jpg 260w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/25172953/114.jpg 940w" sizes="(max-width: 940px) 100vw, 940px" /><p class="wp-caption-text">Air Jordan 5 Low &#8220;Alternate&#8221; &#8211; Release Date: January 30, 2016 &#8211; $175</p></div>
+<h2><a href="http://www.nicekicks.com/2015/07/22/air-jordan-spring-2016-release-dates-revealed/" target="_blank">Air Jordan 5 Low &#8220;Alternate&#8221;</a></h2>
+<p>Colorway: Black/Gym Red-Black-Metallic Hematite<br />
+Style #: 819171-001<br />
+Release Date: January 30, 2016<br />
+Price: $175</p>
+<div id="attachment_481377" style="width: 950px" class="wp-caption aligncenter"><img class="size-full wp-image-481377" src="http://nk_wp_media.s3.amazonaws.com/files/2016/01/23183736/54.jpg" alt="Just Don x Air Jordan 2 Beach" width="940" height="624" srcset="http://nk_wp_media.s3.amazonaws.com/files/2016/01/23183736/54-750x498.jpg 750w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/23183736/54-768x510.jpg 768w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/23183736/54.jpg 940w" sizes="(max-width: 940px) 100vw, 940px" /><p class="wp-caption-text">Just Don x Air Jordan 2 &#8220;Beach&#8221; &#8211; Release Date: January 30, 2016 &#8211; $650</p></div>
+<h2><a href="http://www.nicekicks.com/release-date-just-don-x-air-jordan-2/" target="_blank">Just Don x Air Jordan 2 “Beach”</a></h2>
+<p>Colorway: Beach/Metallic Gold-University Red<br />
+Style #: 834825-250<br />
+Release Date: January 30, 2016<br />
+Price: $650</p>
+<div id="attachment_481893" style="width: 760px" class="wp-caption aligncenter"><img class="size-full wp-image-481893" src="http://nk_wp_media.s3.amazonaws.com/files/2016/01/27221642/Air-Jordan-1-KO-Shadow-.jpg" alt="Air Jordan 1 KO Shadow" width="750" height="400" srcset="http://nk_wp_media.s3.amazonaws.com/files/2016/01/27221642/Air-Jordan-1-KO-Shadow-.jpg 750w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/27221642/Air-Jordan-1-KO-Shadow--500x267.jpg 500w" sizes="(max-width: 750px) 100vw, 750px" /><p class="wp-caption-text">Air Jordan 1 KO &#8220;Shadow&#8221; &#8211; Release Date: February 6, 2016 &#8211; $160</p></div>
+<h2><a href="http://www.nicekicks.com/the-air-jordan-1-ko-shadow-drops-next-month/" target="_blank">Air Jordan 1 KO “Shadow”</a></h2>
+<p>Colorway: Black/Shadow Grey-White<br />
+Style #: 638471-003<br />
+Release Date: February 6, 2016<br />
+Price: $160</p>
+<div id="attachment_457003" style="width: 630px" class="wp-caption aligncenter"><img class="size-full wp-image-457003" src="http://nk_wp_media.s3.amazonaws.com/files/2015/07/air-jordan-2-alternate-release-date-1.jpg" alt="AIR JORDAN 2 RETRO “ALTERNATE” Release Date: January 2nd, 2016" width="620" height="430" srcset="http://nk_wp_media.s3.amazonaws.com/files/2015/07/air-jordan-2-alternate-release-date-1-229x159.jpg 229w, http://nk_wp_media.s3.amazonaws.com/files/2015/07/air-jordan-2-alternate-release-date-1-515x357.jpg 515w, http://nk_wp_media.s3.amazonaws.com/files/2015/07/air-jordan-2-alternate-release-date-1.jpg 620w" sizes="(max-width: 620px) 100vw, 620px" /><p class="wp-caption-text">AIR JORDAN 2 RETRO “ALTERNATE”<br />Release Date: January 2nd, 2016</p></div>
+<h2><a href="http://www.nicekicks.com/2015/07/22/air-jordan-spring-2016-release-dates-revealed/" target="_blank">Air Jordan 2 &#8220;Alternate&#8221;</a></h2>
+<p>Release Date: February 6, 2016</p>
+<div id="attachment_480127" style="width: 1210px" class="wp-caption aligncenter"><img class="size-full wp-image-480127" src="http://nk_wp_media.s3.amazonaws.com/files/2016/01/14133951/air-jordan-xxx-1.jpg" alt="Air Jordan XXX" width="1200" height="620" srcset="http://nk_wp_media.s3.amazonaws.com/files/2016/01/14133951/air-jordan-xxx-1-750x388.jpg 750w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/14133951/air-jordan-xxx-1-768x397.jpg 768w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/14133951/air-jordan-xxx-1-950x491.jpg 950w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/14133951/air-jordan-xxx-1.jpg 1200w" sizes="(max-width: 1200px) 100vw, 1200px" /><p class="wp-caption-text">Air Jordan XXX &#8211; Release Date: February 12, 2016</p></div>
+<h2><a href="http://www.nicekicks.com/the-air-jordan-xxx-by-tinker-hatfield-is-here/" target="_blank">Air Jordan XXX</a></h2>
+<p>Release Date: February 12, 2016</p>
+<div id="attachment_471548" style="width: 630px" class="wp-caption aligncenter"><a href="http://www.nicekicks.com/where-you-can-buy-the-air-jordan-4-white-cement-online/"><img class="wp-image-471548 size-full" src="http://nk_wp_media.s3.amazonaws.com/files/2015/11/10130657/air-jordan-4-white-cement-nike-air-2016-retro-1.png" alt="Air Jordan 4 White Cement Release Date" width="620" height="435" srcset="http://nk_wp_media.s3.amazonaws.com/files/2015/11/10130657/air-jordan-4-white-cement-nike-air-2016-retro-1-570x400.png 570w, http://nk_wp_media.s3.amazonaws.com/files/2015/11/10130657/air-jordan-4-white-cement-nike-air-2016-retro-1.png 620w" sizes="(max-width: 620px) 100vw, 620px" /></a><p class="wp-caption-text">Air Jordan 4 &#8220;White Cement&#8221; &#8211; Release Date: February 13, 2016 &#8211; $220</p></div>
+<h2><a href="http://www.nicekicks.com/where-you-can-buy-the-air-jordan-4-white-cement-online/" target="_blank">Air Jordan 4 &#8220;White Cement&#8221;</a></h2>
+<p>Colorway: White/Black-Cement Grey<br />
+Release Date: February 13, 2016<br />
+Price: $220</p>
+<div id="attachment_482672" style="width: 760px" class="wp-caption aligncenter"><img class="size-full wp-image-482672" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/02130947/Air-Jordan-10-OVO-Black.jpg" alt="Air Jordan 10 &quot;OVO&quot; Black - Release Date: February 13, 2016 - $225" width="750" height="400" srcset="http://nk_wp_media.s3.amazonaws.com/files/2016/02/02130947/Air-Jordan-10-OVO-Black.jpg 750w, http://nk_wp_media.s3.amazonaws.com/files/2016/02/02130947/Air-Jordan-10-OVO-Black-500x267.jpg 500w" sizes="(max-width: 750px) 100vw, 750px" /><p class="wp-caption-text">Air Jordan 10 &#8220;OVO&#8221; Black &#8211; Release Date: February 13, 2016 &#8211; $225</p></div>
+<h2><a href="http://www.nicekicks.com/air-jordan-10-ovo-black-has-a-release-date/" target="_blank">Air Jordan 10 &#8220;OVO&#8221; Black</a></h2>
+<p>Colorway: Black/Black-Metallic Gold<br />
+Style #: 819955-030<br />
+Release Date: February 13, 2016<br />
+Price: $225</p>
+<div id="attachment_483760" style="width: 1034px" class="wp-caption aligncenter"><img class="size-full wp-image-483760" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/10133807/Air_Jordan_5_Retro_Premium_Low_GG_Cool_Grey_16_d6ef8809-e2dd-48cb-97fa-ac550f4e5a3f_1024x1024.jpg" alt="Air Jordan 5 Low Cool Grey Wolf Grey" width="1024" height="682" srcset="http://nk_wp_media.s3.amazonaws.com/files/2016/02/10133807/Air_Jordan_5_Retro_Premium_Low_GG_Cool_Grey_16_d6ef8809-e2dd-48cb-97fa-ac550f4e5a3f_1024x1024-750x500.jpg 750w, http://nk_wp_media.s3.amazonaws.com/files/2016/02/10133807/Air_Jordan_5_Retro_Premium_Low_GG_Cool_Grey_16_d6ef8809-e2dd-48cb-97fa-ac550f4e5a3f_1024x1024-768x512.jpg 768w, http://nk_wp_media.s3.amazonaws.com/files/2016/02/10133807/Air_Jordan_5_Retro_Premium_Low_GG_Cool_Grey_16_d6ef8809-e2dd-48cb-97fa-ac550f4e5a3f_1024x1024-950x633.jpg 950w, http://nk_wp_media.s3.amazonaws.com/files/2016/02/10133807/Air_Jordan_5_Retro_Premium_Low_GG_Cool_Grey_16_d6ef8809-e2dd-48cb-97fa-ac550f4e5a3f_1024x1024-500x333.jpg 500w, http://nk_wp_media.s3.amazonaws.com/files/2016/02/10133807/Air_Jordan_5_Retro_Premium_Low_GG_Cool_Grey_16_d6ef8809-e2dd-48cb-97fa-ac550f4e5a3f_1024x1024-653x435.jpg 653w, http://nk_wp_media.s3.amazonaws.com/files/2016/02/10133807/Air_Jordan_5_Retro_Premium_Low_GG_Cool_Grey_16_d6ef8809-e2dd-48cb-97fa-ac550f4e5a3f_1024x1024-360x240.jpg 360w, http://nk_wp_media.s3.amazonaws.com/files/2016/02/10133807/Air_Jordan_5_Retro_Premium_Low_GG_Cool_Grey_16_d6ef8809-e2dd-48cb-97fa-ac550f4e5a3f_1024x1024.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px" /><p class="wp-caption-text">Air Jordan 5 Low GG Cool/Grey Wolf Grey &#8211; Release Date: February 13, 2016 &#8211; $140</p></div>
+<h2><a href="http://www.nicekicks.com/another-look-at-the-air-jordan-5-low-cool-grey-wolf-grey/" target="_blank">Air Jordan 5 Retro PRM Low GG</a></h2>
+<p>Colorway: Cool Grey/Wolf Grey-White-Black<br />
+Release Date: February 13, 2016<br />
+Price: $140</p>
+<div id="attachment_483551" style="width: 760px" class="wp-caption aligncenter"><img class="size-full wp-image-483551" src="http://nk_wp_media.s3.amazonaws.com/files/2007/07/03174024/Air-Jordan-1-Retro-High-All-Star-.jpg" alt="Air Jordan 1 Retro High &quot;All-Star&quot; - Release Date: February 14, 2016 - $140" width="750" height="400" srcset="http://nk_wp_media.s3.amazonaws.com/files/2007/07/03174024/Air-Jordan-1-Retro-High-All-Star-.jpg 750w, http://nk_wp_media.s3.amazonaws.com/files/2007/07/03174024/Air-Jordan-1-Retro-High-All-Star--500x267.jpg 500w" sizes="(max-width: 750px) 100vw, 750px" /><p class="wp-caption-text">Air Jordan 1 Retro High &#8220;All-Star&#8221; &#8211; Release Date: February 14, 2016 &#8211; $140</p></div>
+<h2><a href="http://www.nicekicks.com/the-air-jordan-1-high-all-star-finds-inspiration-in-world-travel/" target="_blank">Air Jordan 1 Retro High &#8220;All-Star&#8221;</a></h2>
+<p>Colorway: Black/Metallic Silver-Sail<br />
+Release Date: February 14, 2016<br />
+Price: $140</p>
+<div id="attachment_480424" style="width: 760px" class="wp-caption aligncenter"><img class="size-full wp-image-480424" src="http://nk_wp_media.s3.amazonaws.com/files/2016/01/16195918/Air-Jordan-1-Low-Chicago-.jpg" alt="Air Jordan 1 Low &quot;Chicago&quot; - Release Date: February 14, 2016 - $130" width="750" height="400" /><p class="wp-caption-text">Air Jordan 1 Low &#8220;Chicago&#8221; &#8211; Release Date: February 14, 2016 &#8211; $130</p></div>
+<h2><a href="http://www.nicekicks.com/first-look-air-jordan-1-low-chicago/" target="_blank">Air Jordan 1 Low “Chicago”</a></h2>
+<p>Colorway: Varsity Red/Black-White<br />
+Style #: 705329-600<br />
+Release Date: February 14, 2016<br />
+Price: $130</p>
+<div id="attachment_481870" style="width: 760px" class="wp-caption aligncenter"><img class="size-full wp-image-481870" src="http://nk_wp_media.s3.amazonaws.com/files/2016/01/27190749/air-jordan-11-72-10.jpg" alt="Air Jordan 11 72-10" width="750" height="400" srcset="http://nk_wp_media.s3.amazonaws.com/files/2016/01/27190749/air-jordan-11-72-10.jpg 750w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/27190749/air-jordan-11-72-10-500x267.jpg 500w" sizes="(max-width: 750px) 100vw, 750px" /><p class="wp-caption-text">Air Jordan 11 &#8220;72-10&#8221; Restock &#8211; Release Date: February 15, 2016 &#8211; $220</p></div>
+<h2><a href="http://www.nicekicks.com/an-air-jordan-11-72-10-restocking-is-happening-soon/" target="_blank">Air Jordan 11 &#8220;72-10&#8221; Restock</a></h2>
+<p>Release Date: February 15, 2016<br />
+Price: $220</p>
+<div id="attachment_457004" style="width: 630px" class="wp-caption aligncenter"><img class="size-full wp-image-457004" src="http://nk_wp_media.s3.amazonaws.com/files/2015/07/air-jordan-5-low-dunk-above-release-date-1.jpg" alt="AIR JORDAN 5 LOW RETRO “DUNK FROM ABOVE” Release Date: February 20th, 2016" width="620" height="430" srcset="http://nk_wp_media.s3.amazonaws.com/files/2015/07/air-jordan-5-low-dunk-above-release-date-1-229x159.jpg 229w, http://nk_wp_media.s3.amazonaws.com/files/2015/07/air-jordan-5-low-dunk-above-release-date-1-515x357.jpg 515w, http://nk_wp_media.s3.amazonaws.com/files/2015/07/air-jordan-5-low-dunk-above-release-date-1.jpg 620w" sizes="(max-width: 620px) 100vw, 620px" /><p class="wp-caption-text">AIR JORDAN 5 LOW RETRO “DUNK FROM ABOVE”<br />Release Date: February 20th, 2016</p></div>
+<h2><a href="http://www.nicekicks.com/2015/07/22/air-jordan-spring-2016-release-dates-revealed/" target="_blank">Air Jordan 5 Low &#8220;Dunk From Above&#8221;</a></h2>
+<p>Release Date: February 20, 2016</p>
+<div id="attachment_485104" style="width: 769px" class="wp-caption aligncenter"><img src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/22123736/Air-Jordan-XX9-Low-Jimmy-Buckets-.jpg" alt="Air Jordan XX9 Low Jimmy Buckets" width="759" height="405" class="size-full wp-image-485104" srcset="http://nk_wp_media.s3.amazonaws.com/files/2016/02/22123736/Air-Jordan-XX9-Low-Jimmy-Buckets--750x400.jpg 750w, http://nk_wp_media.s3.amazonaws.com/files/2016/02/22123736/Air-Jordan-XX9-Low-Jimmy-Buckets-.jpg 759w" sizes="(max-width: 759px) 100vw, 759px" /><p class="wp-caption-text">Air Jordan XX9 Low &#8220;Jimmy Buckets&#8221; &#8211; Release Date: February 24, 2016 &#8211; $190</p></div>
+<h2><a href="http://www.nicekicks.com/the-air-jordan-xx9-low-jimmy-buckets-drops-this-week/" target="_blank">Air Jordan XX9 Low &#8220;Jimmy Buckets&#8221;</a></h2>
+<p>Colorway: Gym Red/Gym Red-Black<br />
+Style #: 855514-605<br />
+Release Date: February 24, 2016<br />
+Price: $190</p>
+<div id="attachment_457005" style="width: 630px" class="wp-caption aligncenter"><img class="size-full wp-image-457005" src="http://nk_wp_media.s3.amazonaws.com/files/2015/07/air-jordan-12-master-release-date.jpg" alt="AIR JORDAN 12 RETRO “THE MASTER” Release Date: February 27th, 2016" width="620" height="430" srcset="http://nk_wp_media.s3.amazonaws.com/files/2015/07/air-jordan-12-master-release-date-229x159.jpg 229w, http://nk_wp_media.s3.amazonaws.com/files/2015/07/air-jordan-12-master-release-date-515x357.jpg 515w, http://nk_wp_media.s3.amazonaws.com/files/2015/07/air-jordan-12-master-release-date.jpg 620w" sizes="(max-width: 620px) 100vw, 620px" /><p class="wp-caption-text">AIR JORDAN 12 RETRO “THE MASTER”<br />Release Date: February 27th, 2016</p></div>
+<h2><a href="http://www.nicekicks.com/2015/07/22/air-jordan-spring-2016-release-dates-revealed/" target="_blank">Air Jordan 12 &#8220;The Master&#8221;</a></h2>
+<p>Release Date: February 27, 2016</p>
+<div id="attachment_479593" style="width: 630px" class="wp-caption aligncenter"><img class="size-full wp-image-479593" src="http://nk_wp_media.s3.amazonaws.com/files/2016/01/11150400/air-jordan-12-valentines-day-2016-release-620x621.jpg" alt="Air Jordan 12 Valentine's Day" width="620" height="621" srcset="http://nk_wp_media.s3.amazonaws.com/files/2016/01/11150400/air-jordan-12-valentines-day-2016-release-620x621-125x125.jpg 125w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/11150400/air-jordan-12-valentines-day-2016-release-620x621.jpg 620w" sizes="(max-width: 620px) 100vw, 620px" /><p class="wp-caption-text">Air Jordan 12 &#8220;Valentine&#8217;s Day&#8221; &#8211; Release Date: March 5, 2016</p></div>
+<h2><a href="http://www.nicekicks.com/first-look-air-jordan-12-valentines-day/" target="_blank">Air Jordan 12 &#8220;Valentine&#8217;s Day&#8221;</a></h2>
+<p>Colorway: White/Vivid Pink-Metallic Silver<br />
+Release Date: March 5, 2016</p>
+<div id="attachment_484724" style="width: 760px" class="wp-caption aligncenter"><img class="size-full wp-image-484724" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/17225345/Air-Jordan-30-XXX-UNC-.jpg" alt="Air Jordan 30 XXX UNC - Release Date: March 5, 2016 - $200" width="750" height="400" /><p class="wp-caption-text">Air Jordan 30 XXX UNC &#8211; Release Date: March 5, 2016 &#8211; $200</p></div>
+<h2><a href="http://www.nicekicks.com/unc-tarheels-debut-air-jordan-30-xxx-epe/" target="_blank">Air Jordan 30 XXX &#8220;UNC&#8221;</a></h2>
+<p>Colorway: White/Black-University Blue<br />
+Style #: 811006-107<br />
+Release Date: March 5, 2016<br />
+Price: $200</p>
+<div id="attachment_469109" style="width: 760px" class="wp-caption aligncenter"><img class="size-full wp-image-469109" src="http://nk_wp_media.s3.amazonaws.com/files/2015/10/26113436/air-jordan-2-wing-it-1.jpg" alt="Air Jordan 2 Wing It Release Date" width="750" height="400" /><p class="wp-caption-text">Air Jordan 2 &#8220;Wing It&#8221; &#8211; Release Date: March 5, 2016 &#8211; $190</p></div>
+<h2><a href="http://www.nicekicks.com/2015/10/26/iconic-poster-inspires-the-air-jordan-2-wing-it/" target="_blank">Air Jordan 2 “Wing It”</a></h2>
+<p>Colorway: White/Black-Cool Grey<br />
+Style #: 834274-103<br />
+Release Date: March 5, 2016<br />
+Price: $190</p>
+<div id="attachment_484864" style="width: 760px" class="wp-caption aligncenter"><img class="size-full wp-image-484864" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/18154838/Air-Jordan-1-KO-Sail-.jpg" alt="Air Jordan 1 KO &quot;Sail&quot; - Release Date: March 5, 2016 - $140" width="750" height="400" /><p class="wp-caption-text">Air Jordan 1 KO &#8220;Sail&#8221; &#8211; Release Date: March 5, 2016 &#8211; $140</p></div>
+<h2><a href="http://www.nicekicks.com/release-date-air-jordan-1-ko-sail/" target="_blank">Air Jordan 1 Retro KO High “Sail”</a></h2>
+<p>Colorway: Sail/Varsity Red<br />
+Style #: 638471-102<br />
+Release Date: March 5, 2016<br />
+Price: $140</p>
+<div id="attachment_472411" style="width: 760px" class="wp-caption aligncenter"><img class="size-full wp-image-472411" src="http://nk_wp_media.s3.amazonaws.com/files/2015/11/16102724/air-jordan-5-low-fire-red-1.jpg" alt="Air Jordan 5 Low Fire Red Release Date" width="750" height="400" /><p class="wp-caption-text">Air Jordan 5 Low &#8220;Fire Red&#8221; &#8211; Release Date: March 12, 2016</p></div>
+<h2><a href="http://www.nicekicks.com/2015/07/24/air-jordan-5-low-fire-red-release-date/" target="_blank">Air Jordan 5 Low “Fire Red”</a></h2>
+<p>Colorway: White/Fire Red-Black<br />
+Style Code: 819171-101<br />
+Release Date: March 12, 2016</p>
+<div id="attachment_457006" style="width: 630px" class="wp-caption aligncenter"><img class="size-full wp-image-457006" src="http://nk_wp_media.s3.amazonaws.com/files/2015/07/jordan-4-dunk-from-above-release-date.jpg" alt="AIR JORDAN 7 RETRO “DUNK FROM ABOVE” Release Date: March 19th, 2016" width="620" height="430" srcset="http://nk_wp_media.s3.amazonaws.com/files/2015/07/jordan-4-dunk-from-above-release-date-229x159.jpg 229w, http://nk_wp_media.s3.amazonaws.com/files/2015/07/jordan-4-dunk-from-above-release-date-515x357.jpg 515w, http://nk_wp_media.s3.amazonaws.com/files/2015/07/jordan-4-dunk-from-above-release-date.jpg 620w" sizes="(max-width: 620px) 100vw, 620px" /><p class="wp-caption-text">AIR JORDAN 7 RETRO “DUNK FROM ABOVE”<br />Release Date: March 19th, 2016</p></div>
+<h2><a href="http://www.nicekicks.com/2015/07/22/air-jordan-spring-2016-release-dates-revealed/" target="_blank">Air Jordan 4 &#8220;Dunk From Above&#8221;</a></h2>
+<p>Release Date: March 19, 2016</p>
+<div id="attachment_469130" style="width: 760px" class="wp-caption aligncenter"><img class="size-full wp-image-469130" src="http://nk_wp_media.s3.amazonaws.com/files/2015/10/26125332/air-jordan-12-french-blue-2016-release-date-1.jpg" alt="Air Jordan 12 French Blue Release Date" width="750" height="400" /><p class="wp-caption-text">Air Jordan 12 &#8220;French Blue&#8221; &#8211; Release Date: March 26, 2016 &#8211; $190</p></div>
+<h2><a href="http://www.nicekicks.com/2015/10/26/a-first-look-at-the-2016-air-jordan-12-french-blue-release/" target="_blank">Air Jordan 12 &#8220;French Blue&#8221;</a></h2>
+<p>Colorway: White/French Blue-Metallic Silver-Varsity Red<br />
+Style #: 130690-113<br />
+Release Date: March 26, 2016<br />
+Price: $190</p>
+<div id="attachment_484722" style="width: 607px" class="wp-caption aligncenter"><img class="size-full wp-image-484722" src="http://nk_wp_media.s3.amazonaws.com/files/2016/02/17223228/Screen-Shot-2016-02-17-at-9.30.00-PM.png" alt="Air Jordan 9 Low Black Red" width="597" height="592" /><p class="wp-caption-text">Air Jordan 9 Low Black/White-Gym Red &#8211; Release Date: April 16, 2016 &#8211; $170</p></div>
+<h2><a href="http://www.nicekicks.com/2016/01/05/release-date-air-jordan-9-low-black-white-gym-red/" target="_blank">Air Jordan 9 Low</a></h2>
+<p>Colorway: Black/White-Gym Red<br />
+Style #: 832822-001<br />
+Release Date: April 16, 2016<br />
+Price: $170</p>
+<div id="attachment_481412" style="width: 604px" class="wp-caption aligncenter"><img class="size-full wp-image-481412" src="http://nk_wp_media.s3.amazonaws.com/files/2016/01/23194635/Screen-Shot-2016-01-23-at-6.37.52-PM.png" alt="Air Jordan 10 NYC" width="594" height="499" /><p class="wp-caption-text">Air Jordan 10 &#8220;NYC&#8221; &#8211; Release Date: April 23, 2016 &#8211; $190</p></div>
+<h2><a href="http://www.nicekicks.com/the-air-jordan-10-city-pack-makes-a-stop-in-nyc/" target="_blank">Air Jordan 10 Retro &#8220;NYC&#8221;</a></h2>
+<p>Colorway: Black/Black-Dark Grey-Metallic Gold Coin<br />
+Style #: 310805-012<br />
+Release Date: April 23, 2016<br />
+Price: $190</p>
+<div id="attachment_481924" style="width: 904px" class="wp-caption aligncenter"><img class="size-full wp-image-481924" src="http://nk_wp_media.s3.amazonaws.com/files/2016/01/28121012/letterman-air-jordan-1.jpg" alt="Air Jordan 1 High Letterman" width="894" height="1200" srcset="http://nk_wp_media.s3.amazonaws.com/files/2016/01/28121012/letterman-air-jordan-1-750x1007.jpg 750w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/28121012/letterman-air-jordan-1-768x1031.jpg 768w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/28121012/letterman-air-jordan-1-500x671.jpg 500w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/28121012/letterman-air-jordan-1-324x435.jpg 324w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/28121012/letterman-air-jordan-1.jpg 894w" sizes="(max-width: 894px) 100vw, 894px" /><p class="wp-caption-text">Air Jordan 1 High &#8220;Letterman&#8221; &#8211; Release Date: April 30, 2016 &#8211; $160</p></div>
+<h2><a href="http://www.nicekicks.com/a-first-look-at-the-upcoming-air-jordan-1-high-letterman/" target="_blank">Air Jordan 1 Retro High OG &#8220;Letterman&#8221;</a></h2>
+<p>Colorway:&nbsp;Light Crimson/Midnight Navy-University Blue-White<br />
+Style #: 555088-606<br />
+Release Date: April 30, 2016<br />
+Price: $160</p>
+<div id="attachment_481909" style="width: 760px" class="wp-caption aligncenter"><img class="size-full wp-image-481909" src="http://nk_wp_media.s3.amazonaws.com/files/2016/01/28002127/Air-Jordan-2-Low-Chicago-.jpg" alt="Air Jordan 2 Low &quot;Chicago&quot; - Release Date: May 21, 2016 - $160" width="750" height="400" srcset="http://nk_wp_media.s3.amazonaws.com/files/2016/01/28002127/Air-Jordan-2-Low-Chicago-.jpg 750w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/28002127/Air-Jordan-2-Low-Chicago--500x267.jpg 500w" sizes="(max-width: 750px) 100vw, 750px" /><p class="wp-caption-text">Air Jordan 2 Low &#8220;Chicago&#8221; &#8211; Release Date: May 21, 2016 &#8211; $160</p></div>
+<h2><a href="http://www.nicekicks.com/the-air-jordan-2-low-chicago-returns-this-spring/" target="_blank">Air Jordan 2 Low “Chicago”</a></h2>
+<p>Colorway: White/Black-Varsity Red<br />
+Style #: 832819-101<br />
+Release Date: May 21, 2016<br />
+Price: $160</p>
+<div id="attachment_480449" style="width: 1290px" class="wp-caption aligncenter"><img class="size-full wp-image-480449" src="http://nk_wp_media.s3.amazonaws.com/files/2016/01/17152324/2016-air-jordan-12-retro-flu-game-black-red1.jpg" alt="Air Jordan 12 &quot;Flu Game&quot; 2016 Retro" width="1280" height="960" srcset="http://nk_wp_media.s3.amazonaws.com/files/2016/01/17152324/2016-air-jordan-12-retro-flu-game-black-red1-750x563.jpg 750w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/17152324/2016-air-jordan-12-retro-flu-game-black-red1-768x576.jpg 768w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/17152324/2016-air-jordan-12-retro-flu-game-black-red1-950x713.jpg 950w, http://nk_wp_media.s3.amazonaws.com/files/2016/01/17152324/2016-air-jordan-12-retro-flu-game-black-red1.jpg 1280w" sizes="(max-width: 1280px) 100vw, 1280px" /><p class="wp-caption-text">Air Jordan 12 &#8220;Flu Game&#8221; 2016 Retro &#8211; Release Date: May 28, 2016 &#8211; $190</p></div>
+<h2><a href="http://www.nicekicks.com/air-jordan-12-flu-game-2016/" target="_blank">Air Jordan 12 “Flu Game”</a></h2>
+<p>Colorway: Black/Varsity Red<br />
+Release Date: May 28, 2016<br />
+Price: $190</p>
+<div id="attachment_478635" style="width: 760px" class="wp-caption aligncenter"><img class="size-full wp-image-478635" src="http://nk_wp_media.s3.amazonaws.com/files/2016/01/04133707/air-jordan-5-retro-black-metallic-nike-air-1.jpg" alt="Air Jordan 5 Black/Metallic Silver - Release Date: July 23, 2015 - $220" width="750" height="400" /><p class="wp-caption-text">Air Jordan 5 Black/Metallic Silver &#8211; Release Date: July 23, 2016 &#8211; $220</p></div>
+<h2><a href="http://www.nicekicks.com/2016/01/04/the-air-jordan-5-blackmetallic-with-nike-air-is-coming-this-summer/" target="_blank">Air Jordan 5 &#8220;Black Metallic&#8221;</a></h2>
+<p>Colorway: Black/Fire Red-Metallic Silver-White<br />
+Style #: 845035-003<br />
+Release Date: July 23, 2016<br />
+Price: $220</p>
+<p>Since 1985, the Air Jordan line has seen celebrated success. With the success on the court carried brand equity for Air Jordans in stores. Today, it has been years since Michael Jordan was in&nbsp;his prime and more than a decade since playing in the NBA, but retro Jordans have never been hotter. With many retro Air Jordan shoes selling out on the day they release, you should always stay in the loop with upcoming Jordan release dates to make sure you don&#8217;t miss out on them at retail. Resale prices for Air Jordans have been pretty brutal with many models selling for hundreds over the box price immediately after release.</p>
+<p>Starting in 2015, Jordan Brand will release &#8220;Remastered Retro Jordans&#8221; that are higher quality than regular inline retro Jordan shoes. &nbsp;While the shoes do carry a higher price tag, for many Jordan heads, the small upcharge is worth it to have a higher quality pair of retro Air Jordans.</p>
+<h2>Jordan Release Dates Archive</h2>
+<p>Below is a list of archived pages of past Jordan release dates:</p>
+<p>&#8211; <a title="Jordan release dates for December 2014" href="http://www.nicekicks.com/jordan-release-dates-december-2014/">Jordan Release Dates &#8211; December 2014</a><br />
+&#8211; <a title="Jordan release dates for January 2015" href="http://www.nicekicks.com/jordan-release-dates-january-2015/">Jordan Release Dates &#8211; January 2015</a><br />
+&#8211; <a title="Jordan release dates for February 2015" href="http://www.nicekicks.com/jordan-release-dates-february-2015/">Jordan Release Dates &#8211; February 2015</a></p>
+<!-- AddThis Sharing Buttons below via filter on the_content -->
+<div class="at-below-post-page" data-url="http://www.nicekicks.com/air-jordan-release-dates/" data-title="Air Jordan Release Dates"></div><!-- AddThis Sharing Buttons generic via filter on the_content -->
+<!-- AddThis Recommended Content generic via filter on the_content -->
+			     	</section> <!-- end article section -->
+
+					<footer class="article-footer">
+
+                        
+					</footer> <!-- end article footer -->
+
+					
+				</article> <!-- end article -->
+
+				
+			</div> <!-- end #main -->
+
+			<div class="cb-sticky-sidebar">
+<aside class="cb-sidebar clearfix" role="complementary"><div id="text-40" class="cb-sidebar-widget widget_text">			<div class="textwidget"><img src="http://nk_wp_media.s3.amazonaws.com/files/2015/08/31015419/jordan-jumpman-logo-300.png" alt="Jordan logo"/>
+
+<h3>Air Jordans</h3>
+
+<table width="300">
+<tr>
+<td width="150">
+<ul>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-1/">Air Jordan 1</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-2/">Air Jordan 2</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-3/">Air Jordan 3</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-4/">Air Jordan 4</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-5/">Air Jordan 5</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-6/">Air Jordan 6</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-7/">Air Jordan 7</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-8/">Air Jordan 8</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-9/">Air Jordan 9</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-10/">Air Jordan 10</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-11/">Air Jordan 11</a></li>
+<li><a href="http://www.nicekicks.com/tag/air-jordan-12/">Air Jordan 12</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-13/">Air Jordan 13</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-14/">Air Jordan 14</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-15/">Air Jordan 15</a></li>
+</ul>
+</td>
+<td width="150">
+<ul>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-16/">Air Jordan 16</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-17/">Air Jordan 17</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-18/">Air Jordan 18</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-19/">Air Jordan 19</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-20/">Air Jordan 20</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-21/">Air Jordan 21</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-22/">Air Jordan 22</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-23/">Air Jordan 23</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-2009/">Air Jordan 2009</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-2010/">Air Jordan 2010</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-2011/">Air Jordan 2011</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-2012/">Air Jordan 2012</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-xx8/">Air Jordan XX8</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-xx9/">Air Jordan XX9</a></li>
+<li><a href="http://www.nicekicks.com/air-jordans/air-jordan-xxx/">Air Jordan XXX</a></li>
+</ul>
+</td>
+</tr></table>
+
+<a href="http://www.nicekicks.com/air-jordan-release-dates">Air Jordan release dates</a></div>
+		</div></aside>
+</div>
+		</div> <!-- end #cb-content -->
+
+				</div> <!-- end #cb-container -->
+    			
+    			<footer id="cb-footer"role="contentinfo">
+
+                            				<div id="cb-widgets" class="cb-footer-x cb-footer-c wrap clearfix cb-site-padding">
+
+                                                            <div class="cb-one cb-column clearfix">
+                                    <div id="cb-social-media-widget-2" class="cb-footer-widget clearfix cb-widget-social-media clearfix"><h3 class="cb-footer-widget-title cb-widget-title">Connect with Nice Kicks</h3><div class="cb-social-media-icons cb-white"><a href="http://www.instagram.com/nicekicks/" target="_blank" class="cb-instagram cb-icon-1"></a><a href="http://www.facebook.com/nicekicks/" target="_blank" class="cb-facebook cb-icon-2"></a><a href="http://www.twitter.com/nicekicks/" target="_blank" class="cb-twitter cb-icon-3"></a><a href="http://www.youtube.com/user/nicekicks" target="_blank" class="cb-youtube cb-icon-4"></a></div></div>                                </div>
+                                                                                        <div class="cb-two cb-column clearfix">
+                                    <div id="text-29" class="cb-footer-widget clearfix widget_text"><h3 class="cb-footer-widget-title cb-widget-title">Nice Kicks Team</h3>			<div class="textwidget"><p align="center">Matt Halfhill - Founder + Publisher<br />
+Allison Halfhill - Chief of Strategy<br />
+Nick DePaula - Creative Director</p>
+<p align="center">George Kiel III - Editor in Chief<br />
+Ian Stonebrook - Associate Editor<br />
+Pierce Simpson - Staff Writer<br />
+Darren Griffin - Staff Writer</p>
+<p align="center">Monica Kran - Social Media</p>
+</div>
+		</div>                                </div>
+                                                                                        <div class="cb-three cb-column clearfix">
+                                    <div id="text-32" class="cb-footer-widget clearfix widget_text"><h3 class="cb-footer-widget-title cb-widget-title">Nice Kicks Family</h3>			<div class="textwidget"><p align="center"><a href="http://www.nicekicksjr.com" title="Nice Kicks Jr.">Nice Kicks Jr.</a><br />
+<a href="http://www.nicekickslive.com/" title="Nice Kicks Live">Nice Kicks Live</a><br />
+<a href="http://www.shopnicekicks.com/" title="Shop Nice Kicks" rel="nofollow">ShopNiceKicks</a></p>
+</div>
+		</div>                                </div>
+                                                        
+                        </div>
+
+                    
+                    
+                        <div class="cb-footer-lower cb-font-header clearfix">
+
+                            <div class="wrap clearfix">
+
+                            	                                    <div id="cb-footer-logo">
+                                        <a href="http://www.nicekicks.com">
+                                            <img src="http://nk_wp_media.s3.amazonaws.com/files/2015/05/nice-kicks-80-white.png" alt=" logo"  data-at2x="http://nk_wp_media.s3.amazonaws.com/files/2015/05/nice-kicks-160-white.png">
+                                        </a>
+                                    </div>
+                                
+                                
+                                <div class="cb-copyright">ATX / LAX / PDX / NYC</div>
+
+                                		                            <div class="cb-to-top"><a href="#" id="cb-to-top"><i class="fa fa-angle-up cb-circle"></i></a></div>
+		                        
+           					</div>
+
+        				</div>
+    				
+    			</footer> <!-- end footer -->
+
+		</div> <!-- end #cb-outer-container -->
+
+		<span id="cb-overlay"></span>
+
+		        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'nicekicks';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); 
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <script type="text/javascript" src="http://s.skimresources.com/js/86168X1538630.skimlinks.js"></script>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"Rb61m1aU8KL3uG", domain:"nicekicks.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Rb61m1aU8KL3uG" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-111233-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript">(function(d, t){
+if(window.location.hash!='#gleam'&&(''+document.cookie).match(/(^|;)\s*GleamwJ0HB=X($|;)/)){return;}
+var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+g.src = "https://js.gleam.io/wJ0HB/ol.js"; s.parentNode.insertBefore(g, s);
+}(document, "script"));</script>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "18205345" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=18205345&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-d8niwM5rY1aSE"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-d8niwM5rY1aSE.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+                <script
+                    data-cfasync="false"
+                    type="text/javascript"
+                >
+                
+                if (window.wp_product_version === undefined) {
+                    window.wp_product_version = "wpwt-1.0.0";
+                }
+
+                if (window.wp_blog_version === undefined) {
+                    window.wp_blog_version = "4.4.2";
+                }
+
+                if (window.addthis_share === undefined) {
+                    window.addthis_share = {"passthrough":{"twitter":{"via":"nicekicks"}},"url_transforms":{"shorten":{"twitter":"bitly"}},"shorteners":{"bitly":{}}};
+                }
+
+                if (window.addthis_config === undefined) {
+                    window.addthis_config = {"data_track_clickback":true,"data_ga_property":"UA-111233-1","data_ga_social":true,"ui_atversion":"300"};
+                }
+
+                if (window.addthis_layers === undefined) {
+                    window.addthis_layers = {};
+                }
+
+                if (window.addthis_plugin_info === undefined) {
+                    window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","cms_version":"4.4.2","plugin_name":"AddThis Website Tools","plugin_version":"1.0.0","plugin_mode":"AddThis","anonymous_profile_id":"wp-eddfe9e85367a198d263456ac705b007","page_info":{"template":"pages","post_type":""},"sharing_enabled_on_post_via_metabox":true};
+                }
+
+                
+                    (function() {
+                        var at_interval = setInterval(function () {
+                            if(window.addthis) {
+                                clearInterval(at_interval);
+                                window.addthis.layers(window.addthis_layers);
+                            }
+                        },1000)
+                    }());
+                
+            
+                </script>
+                <script
+                    data-cfasync="false"
+                    type="text/javascript"
+                    src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54aa246d374d970c"
+                    async="async"
+                ></script>
+            <script type='text/javascript'>
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"http:\/\/www.nicekicks.com\/wp-content\/plugins\/wp-postratings","ajax_url":"http:\/\/www.nicekicks.com\/wp-admin\/admin-ajax.php","text_wait":"Please rate only 1 post at a time.","image":"stars(png)","image_ext":"png","max":"5","show_loading":"1","show_fading":"1","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.plugin_url+"/images/"+ratingsL10n.image+"/rating_over."+ratingsL10n.image_ext;;
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-content/plugins/wp-postratings/postratings-js.js?ver=1.83'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201608'></script>
+<script type='text/javascript' src='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-content/themes/15zine/woven_lib/js/dfp.js?ver=20150617'></script>
+<script type='text/javascript' src='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-includes/js/comment-reply.min.js?ver=4.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cbExt = {"cbSS":"on","cbLb":"on"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-content/themes/15zine/library/js/cb-ext.js?ver=2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cbScripts = {"cbUrl":"http:\/\/www.nicekicks.com\/wp-admin\/admin-ajax.php","cbPostID":"1440","cbFsClass":"cb-embed-fs","cbSlider":["600",true,"7000","on"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-content/themes/15zine/library/js/cb-scripts.min.js?ver=2.2'></script>
+<script type='text/javascript' src='http://iqbkkd2tcm3u6mnv1c41azk6.wpengine.netdna-cdn.com/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+<div class="adslot visible-mobile hidden-desktop hidden-tablet" id="woven-interstitial" style="min-width: 1px; min-height: 1px;" data-zone="1x1" data-cids="" data-size="[1, 1]"></div><div class="adslot visible-desktop visible-tablet" id="woven-skin" style="min-width: 1px; min-height: 1px;" data-zone="Skin" data-cids="" data-size="[1, 1]"></div><script type='text/javascript' src='http://stats.wp.com/e-201608.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.9.1',blog:'14498426',post:'1440',tz:'-5',srv:'www.nicekicks.com'} ]);
+	_stq.push([ 'clickTrackerInit', '14498426', '1440' ]);
+</script>
+
+	</body>
+
+</html> <!-- The End. what a ride! -->
